@@ -53,8 +53,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"alt="javascript" width="40" height="40"/> </a> 
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -66,6 +64,5 @@
 
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeksha04-alt&show_icons=true&locale=en&layout=compact" alt="deeksha04-alt" height="200px">
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deeksha04-alt&" alt="deeksha04-alt" height="200px">
 </div>
 
